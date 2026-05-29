@@ -33,7 +33,7 @@ Do not use it to abuse, spam, raid, or violate the Terms of Service of Discord.
 
 ## Installation
 
-1. Download `hydrogen.exe`
+1. Download [hydrogen.exe](https://github.com/cyber-66777/Hydrogen/blob/main/Hydrogen.exe)
 2. Run the executable
 3. Follow the setup instructions
 
