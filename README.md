@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./image.png" width="900">
+</p>
+
 ```txt
 ██╗  ██╗██╗   ██╗██████╗ ██████╗  ██████╗  ██████╗ ███████╗███╗   ██╗
 ██║  ██║╚██╗ ██╔╝██╔══██╗██╔══██╗██╔═══██╗██╔════╝ ██╔════╝████╗  ██║
@@ -6,6 +10,8 @@
 ██║  ██║   ██║   ██████╔╝██║  ██║╚██████╔╝╚██████╔╝███████╗██║ ╚████║
 ╚═╝  ╚═╝   ╚═╝   ╚═════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚══════╝╚═╝  ╚═══╝
 ```
+
+Simple and beginner-friendly Discord utility tool made for educational purposes only.
 
 Simple and beginner-friendly Discord utility tool made for educational purposes only.
 
